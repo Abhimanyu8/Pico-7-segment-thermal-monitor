@@ -1,4 +1,4 @@
-# Pico-7-segment-thermometer
+# Pico-7-segment-thermal-monitor
 Cause , everyone has a few of them glowy bois lying around somewhere right ?
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54982599/156930553-48122d22-27af-41d5-b1e1-b49a5a986857.jpg" width="700" />
