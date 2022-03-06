@@ -25,7 +25,9 @@ The pinouts of the pico are 18,19,13,14,15,17 and 16 for A, B, C, D, E, F and G 
 </p>
 
 
-Do note that the displays are connected PARALLEL-y and current is pulled straight from 5V VBUS for maximum brightness 🔆 
+Do note that the displays are connected PARALLEL-y and current is pulled straight from 5V VBUS for maximum brightness 🔆
+
+An UP signal controls display 1 and a DOWN signal controls the other. 
 
 
 ![DSC_6189-min](https://user-images.githubusercontent.com/54982599/156930846-6676dc9e-1e1f-44d6-ba0c-6a8d1595b482.jpg)
