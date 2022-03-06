@@ -5,7 +5,7 @@ Cause , everyone has a few of them glowy bois lying around somewhere right ?
 </p>
 
 This is a quick and dirty 15-minute raspberry pi pico project involving two 7-segment displays and loads of micropython.
-Works as a temp indicator for PCs, Chainsaw Engines, Your cup of coffee.... basically anywhere you can stick the RP2040 on 
+Works as a temp checking tool for PCs, Chainsaw Engines, Your cup of coffee.... basically anywhere you can stick the RP2040 on 
 
 ## Recipe :
 <p align="center">
