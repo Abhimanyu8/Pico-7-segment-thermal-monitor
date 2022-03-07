@@ -33,7 +33,7 @@ An UP signal controls display 1 and a DOWN signal controls the other.
 ![DSC_6189-min](https://user-images.githubusercontent.com/54982599/156930846-6676dc9e-1e1f-44d6-ba0c-6a8d1595b482.jpg)
 
 
-This leads to both displays being powered at the same time and each one shows the inverse of the other . You can connect the displays
+This leads to both displays being powered at the same time and each one shows the compliment of the other . You can connect the displays
 seperately but I find this wacky so it stays.
 
 ![DSC_6191-min](https://user-images.githubusercontent.com/54982599/156930850-0f65390e-a2ad-4913-b262-b89fbb5706fc.jpg)
